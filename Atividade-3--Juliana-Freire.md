@@ -27,4 +27,4 @@ while guess != numero_fixo:
   if tentativa == 0:
     print("Você esgotou suas tentativas. Tente novamente.")
     break
-´´´
+```
